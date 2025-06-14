@@ -3,7 +3,7 @@ entries:
   cool:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-14T02:31:38.452967245Z"
+    created: "2025-06-14T03:32:23.31904585Z"
     description: A Helm chart for Kubernetes
     digest: 0ea62f2dfaadd547e91bbf4e69b58eefeec63f33d507755055fb0bb9bd854f22
     name: cool
@@ -11,4 +11,4 @@ entries:
     urls:
     - cool-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-14T02:31:38.451189436Z"
+generated: "2025-06-14T03:32:23.318481928Z"
